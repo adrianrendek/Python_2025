@@ -1,0 +1,5 @@
+num_1 = int(input("Number 1: ")) 
+num_2 = int(input("Number 2: ")) 
+num_3 = int(input("Number 3: ")) 
+num_4 = int(input("Number 4: ")) 
+print(f"The sum of the numbers is {num_1 + num_2 + num_3 + num_4} and the mean is {(num_1 + num_2 + num_3 + num_4) / 4}")
